@@ -30,6 +30,6 @@ During my college while learning Data Structures And Algorithm, it made passiona
 
 And while making various projects using data and Business Intelligence tools made feel excited about playing with data. 
 
-And the because of the furure scope of Data Analysis in field Data Science and Artificial Intelligence that gave me immence amount of motivation to pursue my career in this field.
+And the because of the furure scope of Data Analytics in field Data Science and Artificial Intelligence that gave me immence amount of motivation to pursue my career in this field.
 
-I my free time I love to watch self-improvement videos related to health,fitness and many more which helps me to become better physically and mentally and this has a positive impact my confidence and performance in work.
+I my free time I love to watch self-improvement videos related to health,fitness and many more which helps me to become better physically and mentally and this has a positive impact my confidence and my performance in work.
