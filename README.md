@@ -33,3 +33,55 @@ And while making various projects using data and Business Intelligence tools mad
 And the because of the furure scope of Data Analytics in field Data Science and Artificial Intelligence that gave me immence amount of motivation to pursue my career in this field.
 
 I my free time I love to watch self-improvement videos related to health,fitness and many more which helps me to become better physically and mentally and this has a positive impact my confidence and my performance in work.
+
+
+2. What are your key strengths?
+----------------------------------
+
+3. What are your weaknesses?
+----------------------------------
+
+4. What are your hobbies and interests?
+------------------------------------------
+
+5. Biggest Achievement and biggest failure?
+----------------------------------------------
+
+6. Why Engineering and Why this branch?
+------------------------------------------
+
+7. What do you know about my company?
+----------------------------------------
+
+8. Who is the ideal of your life?
+-----------------------------------
+
+9. Do you wish to pursue higher education?
+----------------------------------------------
+
+10. Do you have any plans of your own start-up?
+------------------------------------------------
+
+11. How long will you stay with us if hired?
+-------------------------------------------------
+
+12. Which is your dream company?
+----------------------------------
+
+13. What if you are not selected for this position?
+-------------------------------------------------------
+    
+14. Why should we hire you?
+------------------------------
+
+15. Where do you see yourself 5 years from now?
+----------------------------------------------------
+
+16. Are you ready to relocate?
+----------------------------------
+
+17. What if you are not selected for this position?
+------------------------------------------------------
+    
+18. Do You have any Questions?
+----------------------------------
