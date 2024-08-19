@@ -30,19 +30,25 @@ During my college while learning Data Structures And Algorithm, it made passiona
 
 And while making various projects using data and Business Intelligence tools made feel excited about playing with data. 
 
-And the because of the furure scope of Data Analytics in field Data Science and Artificial Intelligence that gave me immence amount of motivation to pursue my career in this field.
+And the because of the furure scope of Data Analytics in field of Data Science and Artificial Intelligence that gave me immence amount of motivation to pursue my career in this field.
 
 I my free time I love to watch self-improvement videos related to health,fitness and many more which helps me to become better physically and mentally and this has a positive impact my confidence and my performance in work.
 
 
 2. What are your key strengths?
 ----------------------------------
+As In my schoold Days I have changed about 10 schools accross Odisha that made me adaptible in nature and this helped me to adapt different situations and enviroment to work in it.
+And also due to this experience I am also able to interact with new people in new places which helped in improving my Interpersonal Communication skills.
+
 
 3. What are your weaknesses?
 ----------------------------------
+I am 1st and 2nd year of college I was struggling to manage my time efficiently. Then Tried to search various ways to takkle this problem, and then I am got to know about the concept of time blocking. In which we have to asign some to work to every particular hour of the day. By this I am able to manage my time more efficiently than before.
+
 
 4. What are your hobbies and interests?
 ------------------------------------------
+In my free time I love to solve puzzles 
 
 5. Biggest Achievement and biggest failure?
 ----------------------------------------------
