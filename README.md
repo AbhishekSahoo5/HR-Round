@@ -30,7 +30,7 @@ And while making various projects using data and Business Intelligence tools mad
 
 And the because of the furure scope of Data Analytics in field of Data Science and Artificial Intelligence that gave me immence amount of motivation to pursue my career in this field.
 
-I my free time I love to watch self-improvement videos related to health,fitness and many more which helps me to become better physically and mentally and this has a positive impact my confidence and my performance in work.
+
 
 
 2. What are your key strengths?
