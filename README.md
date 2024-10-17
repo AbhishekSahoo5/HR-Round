@@ -19,8 +19,7 @@ Q1) Tell me about yourself ??
 ---------------------------------
 Good Morning Everyone, My name is Abhishek Sahoo, I am from Bhubaneswar. I am a final year B.Tech Computer Science student from SOA University.
 
-
-During my school days, I changed about 10 schools across Odisha, and this experience gave me the ability to adapt different enviroments and work in it. This makes me adaptible in nature.
+I have done my schooling from different part of Odisha, As in my schooling days I have changed about 10 schools in my schooling days and that gave me the experience to adabt different enviroments and work in it. That made me adaptibility in nature.
 
 In my three years of Engineering life. I learnt a lot of skills and grabbed a lot of experience that helped me to improve myself, my attitude and pospective towards my career.
 
@@ -29,8 +28,6 @@ During my college while learning Data Structures And Algorithm, it made passiona
 And while making various projects using data and Business Intelligence tools made feel excited about playing with data. 
 
 And the because of the furure scope of Data Analytics in field of Data Science and Artificial Intelligence that gave me immence amount of motivation to pursue my career in this field.
-
-
 
 
 2. What are your key strengths?
