@@ -29,6 +29,7 @@ And while making various projects using data and Business Intelligence tools mad
 
 And the because of the furure scope of Data Analytics in field of Data Science and Artificial Intelligence that gave me immence amount of motivation to pursue my career in this field.
 
+Some of my interest includes solving different puzzles and different types of rubix cybes.
 
 2. What are your key strengths?
 ----------------------------------
