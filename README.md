@@ -19,7 +19,7 @@ Q1) Tell me about yourself ??
 ---------------------------------
 Good Morning Everyone, My name is Abhishek Sahoo, I am from Bhubaneswar. I am a final year B.Tech Computer Science student from SOA University.
 
-I have done my schooling from different part of Odisha, As in my schooling days I have changed about 10 schools in my schooling days and that gave me the experience to adabt different enviroments and work in it. That made me adaptibility in nature.
+I have done my schooling from different part of Odisha, As in my schooling days I have changed about 10 schools in my schooling days and that gave me the experience to adabt different enviroments and work in it. That made me adaptibile in nature.
 
 In my three years of Engineering life. I learnt a lot of skills and grabbed a lot of experience that helped me to improve myself, my attitude and pospective towards my career.
 
@@ -58,7 +58,10 @@ After completing my 10th When I got my first laptop I got to know about coding a
 
 7. What do you know about my company?
 ----------------------------------------
-Tata Consultancy service is one of the World's leading IT services, consulting and business solutions organizations. It was founded in 1968 as part of te tata group India's largest Industrial Organization. Troughout 56 years TCS has grown into a global powerhouse with a significant presence in over 46 countries. Its journey from a small software company to a global leader in IT services is a remarkable story of innovation and commitment to excellence.
+LTImindtree is a multinational IT services and consulting company based in Mumbai,India. It's a subsidary of Larsen & Turdo and was incorporated in 1996.
+Mr. Debashis Chatterjee --> CEO and MD 
+Mr. S.N. Subramanyan ---> Chairman and MD
+
 
 
 8. Who is the ideal of your life?
@@ -68,7 +71,7 @@ My ideal is Elon Musk his hard working attitude and his ability of never giving 
 
 9. Do you wish to pursue higher education?
 ----------------------------------------------
-No, I don't have any plan of higher education. I think 2 years of experience has more value than getting a 2 years higher education degree. Experience will make me more efficient to work and manage the work in the office.  
+No, I don't have any plan of higher education. I think 2 years of experience has more value than getting a 2 years higher education degree. Experience will make me more efficient to work and manage the work in the office. 
 
 
 10. Do you have any plans of your own start-up?
@@ -88,7 +91,7 @@ Tata Consultancy Service
 
 13. What if you are not selected for this position?
 -------------------------------------------------------
-If i don't get selected in the interview I will be sad because I was expecting to get selected, but i will accept the situation and try tyo find out all the mistakes I have done in the interview and try tp improve myself and knowledge in the particular domain I am in.
+If i don't get selected in the interview I will be sad because I was expecting to get selected, but i will accept the situation and try to find out all the mistakes I have done in the interview and try to improve myself and knowledge in the particular domain I am in.
 
 
 14. Why should we hire you?
